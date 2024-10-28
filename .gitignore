@@ -1,2 +1,5 @@
 data/
 .venv/
+notebooks/mlruns/*
+notebooks/mlruns/0
+notebooks/mlruns/530244478229639463
